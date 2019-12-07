@@ -1,0 +1,6 @@
+C:\Users\pavixonpl\source\repos\kolos\kolos\bin\Debug\kolos.exe.config
+C:\Users\pavixonpl\source\repos\kolos\kolos\bin\Debug\kolos.exe
+C:\Users\pavixonpl\source\repos\kolos\kolos\bin\Debug\kolos.pdb
+C:\Users\pavixonpl\source\repos\kolos\kolos\obj\Debug\kolos.csprojAssemblyReference.cache
+C:\Users\pavixonpl\source\repos\kolos\kolos\obj\Debug\kolos.exe
+C:\Users\pavixonpl\source\repos\kolos\kolos\obj\Debug\kolos.pdb

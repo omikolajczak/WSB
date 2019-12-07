@@ -1,0 +1,6 @@
+C:\xampp\htdocs\PM\Zadania_Lis_czesc_3_rozdzial2\Zadania_Lis_czesc_3_rozdzial2\bin\Debug\Zadania_Lis_czesc_3_rozdzial2.exe.config
+C:\xampp\htdocs\PM\Zadania_Lis_czesc_3_rozdzial2\Zadania_Lis_czesc_3_rozdzial2\bin\Debug\Zadania_Lis_czesc_3_rozdzial2.exe
+C:\xampp\htdocs\PM\Zadania_Lis_czesc_3_rozdzial2\Zadania_Lis_czesc_3_rozdzial2\bin\Debug\Zadania_Lis_czesc_3_rozdzial2.pdb
+C:\xampp\htdocs\PM\Zadania_Lis_czesc_3_rozdzial2\Zadania_Lis_czesc_3_rozdzial2\obj\Debug\Zadania_Lis_czesc_3_rozdzial2.csprojAssemblyReference.cache
+C:\xampp\htdocs\PM\Zadania_Lis_czesc_3_rozdzial2\Zadania_Lis_czesc_3_rozdzial2\obj\Debug\Zadania_Lis_czesc_3_rozdzial2.exe
+C:\xampp\htdocs\PM\Zadania_Lis_czesc_3_rozdzial2\Zadania_Lis_czesc_3_rozdzial2\obj\Debug\Zadania_Lis_czesc_3_rozdzial2.pdb

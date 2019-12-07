@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie z labów cw 2 z moodla", "Zadanie z labów cw 2 z moodla\Zadanie z labów cw 2 z moodla.csproj", "{CE1A8843-A1C0-433B-99D7-85D6FE592997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE1A8843-A1C0-433B-99D7-85D6FE592997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1A8843-A1C0-433B-99D7-85D6FE592997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1A8843-A1C0-433B-99D7-85D6FE592997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1A8843-A1C0-433B-99D7-85D6FE592997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C6BE27-89EB-47BD-AC19-8CD4CFF5128A}
+	EndGlobalSection
+EndGlobal

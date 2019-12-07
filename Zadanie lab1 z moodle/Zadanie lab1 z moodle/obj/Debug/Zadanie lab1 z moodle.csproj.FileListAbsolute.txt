@@ -1,0 +1,6 @@
+C:\xampp\htdocs\PM\Zadanie lab1 z moodle\Zadanie lab1 z moodle\bin\Debug\Zadanie lab1 z moodle.exe.config
+C:\xampp\htdocs\PM\Zadanie lab1 z moodle\Zadanie lab1 z moodle\bin\Debug\Zadanie lab1 z moodle.exe
+C:\xampp\htdocs\PM\Zadanie lab1 z moodle\Zadanie lab1 z moodle\bin\Debug\Zadanie lab1 z moodle.pdb
+C:\xampp\htdocs\PM\Zadanie lab1 z moodle\Zadanie lab1 z moodle\obj\Debug\Zadanie lab1 z moodle.csprojAssemblyReference.cache
+C:\xampp\htdocs\PM\Zadanie lab1 z moodle\Zadanie lab1 z moodle\obj\Debug\Zadanie lab1 z moodle.exe
+C:\xampp\htdocs\PM\Zadanie lab1 z moodle\Zadanie lab1 z moodle\obj\Debug\Zadanie lab1 z moodle.pdb

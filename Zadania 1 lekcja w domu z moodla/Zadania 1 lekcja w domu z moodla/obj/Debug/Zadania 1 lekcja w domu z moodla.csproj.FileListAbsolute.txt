@@ -1,0 +1,6 @@
+C:\xampp\htdocs\PM\Zadania 1 lekcja w domu z moodla\Zadania 1 lekcja w domu z moodla\obj\Debug\Zadania 1 lekcja w domu z moodla.csprojAssemblyReference.cache
+C:\xampp\htdocs\PM\Zadania 1 lekcja w domu z moodla\Zadania 1 lekcja w domu z moodla\bin\Debug\Zadania 1 lekcja w domu z moodla.exe.config
+C:\xampp\htdocs\PM\Zadania 1 lekcja w domu z moodla\Zadania 1 lekcja w domu z moodla\bin\Debug\Zadania 1 lekcja w domu z moodla.exe
+C:\xampp\htdocs\PM\Zadania 1 lekcja w domu z moodla\Zadania 1 lekcja w domu z moodla\bin\Debug\Zadania 1 lekcja w domu z moodla.pdb
+C:\xampp\htdocs\PM\Zadania 1 lekcja w domu z moodla\Zadania 1 lekcja w domu z moodla\obj\Debug\Zadania 1 lekcja w domu z moodla.exe
+C:\xampp\htdocs\PM\Zadania 1 lekcja w domu z moodla\Zadania 1 lekcja w domu z moodla\obj\Debug\Zadania 1 lekcja w domu z moodla.pdb

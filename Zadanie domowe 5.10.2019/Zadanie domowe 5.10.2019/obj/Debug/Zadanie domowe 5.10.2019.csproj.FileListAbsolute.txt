@@ -1,0 +1,6 @@
+C:\xampp\htdocs\PM\Zadanie domowe 5.10.2019\Zadanie domowe 5.10.2019\obj\Debug\Zadanie domowe 5.10.2019.csprojAssemblyReference.cache
+C:\xampp\htdocs\PM\Zadanie domowe 5.10.2019\Zadanie domowe 5.10.2019\bin\Debug\Zadanie domowe 5.10.2019.exe.config
+C:\xampp\htdocs\PM\Zadanie domowe 5.10.2019\Zadanie domowe 5.10.2019\bin\Debug\Zadanie domowe 5.10.2019.exe
+C:\xampp\htdocs\PM\Zadanie domowe 5.10.2019\Zadanie domowe 5.10.2019\bin\Debug\Zadanie domowe 5.10.2019.pdb
+C:\xampp\htdocs\PM\Zadanie domowe 5.10.2019\Zadanie domowe 5.10.2019\obj\Debug\Zadanie domowe 5.10.2019.exe
+C:\xampp\htdocs\PM\Zadanie domowe 5.10.2019\Zadanie domowe 5.10.2019\obj\Debug\Zadanie domowe 5.10.2019.pdb

@@ -1,0 +1,5 @@
+/home/pavixonpl/Projects/Zadania_Lis_Czesc_2/Zadania_Lis_Czesc_2/obj/x86/Debug/Zadania_Lis_Czesc_2.csprojAssemblyReference.cache
+/home/pavixonpl/Projects/Zadania_Lis_Czesc_2/Zadania_Lis_Czesc_2/bin/Debug/Zadania_Lis_Czesc_2.exe
+/home/pavixonpl/Projects/Zadania_Lis_Czesc_2/Zadania_Lis_Czesc_2/bin/Debug/Zadania_Lis_Czesc_2.pdb
+/home/pavixonpl/Projects/Zadania_Lis_Czesc_2/Zadania_Lis_Czesc_2/obj/x86/Debug/Zadania_Lis_Czesc_2.exe
+/home/pavixonpl/Projects/Zadania_Lis_Czesc_2/Zadania_Lis_Czesc_2/obj/x86/Debug/Zadania_Lis_Czesc_2.pdb
