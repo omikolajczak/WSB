@@ -1,0 +1,6 @@
+C:\xampp\htdocs\PM\Marcin Lis csharp lekcja 1\Marcin Lis csharp lekcja 1\obj\Debug\Marcin Lis csharp lekcja 1.csprojAssemblyReference.cache
+C:\xampp\htdocs\PM\Marcin Lis csharp lekcja 1\Marcin Lis csharp lekcja 1\bin\Debug\Marcin Lis csharp lekcja 1.exe.config
+C:\xampp\htdocs\PM\Marcin Lis csharp lekcja 1\Marcin Lis csharp lekcja 1\bin\Debug\Marcin Lis csharp lekcja 1.exe
+C:\xampp\htdocs\PM\Marcin Lis csharp lekcja 1\Marcin Lis csharp lekcja 1\bin\Debug\Marcin Lis csharp lekcja 1.pdb
+C:\xampp\htdocs\PM\Marcin Lis csharp lekcja 1\Marcin Lis csharp lekcja 1\obj\Debug\Marcin Lis csharp lekcja 1.exe
+C:\xampp\htdocs\PM\Marcin Lis csharp lekcja 1\Marcin Lis csharp lekcja 1\obj\Debug\Marcin Lis csharp lekcja 1.pdb

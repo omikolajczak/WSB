@@ -1,0 +1,6 @@
+C:\Users\student\source\repos\Tabliczka mnożenia\bin\Debug\Tabliczka mnożenia.exe.config
+C:\Users\student\source\repos\Tabliczka mnożenia\bin\Debug\Tabliczka mnożenia.exe
+C:\Users\student\source\repos\Tabliczka mnożenia\bin\Debug\Tabliczka mnożenia.pdb
+C:\Users\student\source\repos\Tabliczka mnożenia\obj\Debug\Tabliczka mnożenia.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Tabliczka mnożenia\obj\Debug\Tabliczka mnożenia.exe
+C:\Users\student\source\repos\Tabliczka mnożenia\obj\Debug\Tabliczka mnożenia.pdb

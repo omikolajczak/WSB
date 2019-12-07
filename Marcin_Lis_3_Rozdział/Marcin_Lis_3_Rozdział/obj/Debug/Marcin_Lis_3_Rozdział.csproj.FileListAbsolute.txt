@@ -1,0 +1,6 @@
+C:\xampp\htdocs\xampp\Marcin_Lis_3_Rozdział\Marcin_Lis_3_Rozdział\obj\Debug\Marcin_Lis_3_Rozdział.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\Marcin_Lis_3_Rozdział\Marcin_Lis_3_Rozdział\bin\Debug\Marcin_Lis_3_Rozdział.exe.config
+C:\xampp\htdocs\xampp\Marcin_Lis_3_Rozdział\Marcin_Lis_3_Rozdział\bin\Debug\Marcin_Lis_3_Rozdział.exe
+C:\xampp\htdocs\xampp\Marcin_Lis_3_Rozdział\Marcin_Lis_3_Rozdział\bin\Debug\Marcin_Lis_3_Rozdział.pdb
+C:\xampp\htdocs\xampp\Marcin_Lis_3_Rozdział\Marcin_Lis_3_Rozdział\obj\Debug\Marcin_Lis_3_Rozdział.exe
+C:\xampp\htdocs\xampp\Marcin_Lis_3_Rozdział\Marcin_Lis_3_Rozdział\obj\Debug\Marcin_Lis_3_Rozdział.pdb

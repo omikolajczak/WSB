@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git_pm\Podstawy_Programowania\Lekcja_10.11_2019\Lekcja_10.11_2019\bin\Debug\Lekcja_10.11_2019.exe.config
+C:\xampp\htdocs\git_pm\Podstawy_Programowania\Lekcja_10.11_2019\Lekcja_10.11_2019\bin\Debug\Lekcja_10.11_2019.exe
+C:\xampp\htdocs\git_pm\Podstawy_Programowania\Lekcja_10.11_2019\Lekcja_10.11_2019\bin\Debug\Lekcja_10.11_2019.pdb
+C:\xampp\htdocs\git_pm\Podstawy_Programowania\Lekcja_10.11_2019\Lekcja_10.11_2019\obj\Debug\Lekcja_10.11_2019.csprojAssemblyReference.cache
+C:\xampp\htdocs\git_pm\Podstawy_Programowania\Lekcja_10.11_2019\Lekcja_10.11_2019\obj\Debug\Lekcja_10.11_2019.exe
+C:\xampp\htdocs\git_pm\Podstawy_Programowania\Lekcja_10.11_2019\Lekcja_10.11_2019\obj\Debug\Lekcja_10.11_2019.pdb

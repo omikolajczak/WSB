@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\nr5\nr5\bin\Debug\nr5.exe.config
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\nr5\nr5\bin\Debug\nr5.exe
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\nr5\nr5\bin\Debug\nr5.pdb
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\nr5\nr5\bin\Debug\obliczenia.dll
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\nr5\nr5\bin\Debug\obliczenia.pdb
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\nr5\nr5\obj\Debug\nr5.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\nr5\nr5\obj\Debug\nr5.csproj.CopyComplete
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\nr5\nr5\obj\Debug\nr5.exe
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\nr5\nr5\obj\Debug\nr5.pdb

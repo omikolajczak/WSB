@@ -1,0 +1,12 @@
+C:\xampp\htdocs\git_pm\Podstawy_Programowania\1_Pierwszy_Plik\1_Pierwszy poprawny\lekcja2\lekcja2\obj\Debug\lekcja2.csprojAssemblyReference.cache
+C:\xampp\htdocs\git_pm\Podstawy_Programowania\1_Pierwszy_Plik\1_Pierwszy poprawny\lekcja2\lekcja2\bin\Debug\lekcja2.exe.config
+C:\xampp\htdocs\git_pm\Podstawy_Programowania\1_Pierwszy_Plik\1_Pierwszy poprawny\lekcja2\lekcja2\bin\Debug\lekcja2.exe
+C:\xampp\htdocs\git_pm\Podstawy_Programowania\1_Pierwszy_Plik\1_Pierwszy poprawny\lekcja2\lekcja2\bin\Debug\lekcja2.pdb
+C:\xampp\htdocs\git_pm\Podstawy_Programowania\1_Pierwszy_Plik\1_Pierwszy poprawny\lekcja2\lekcja2\obj\Debug\lekcja2.exe
+C:\xampp\htdocs\git_pm\Podstawy_Programowania\1_Pierwszy_Plik\1_Pierwszy poprawny\lekcja2\lekcja2\obj\Debug\lekcja2.pdb
+C:\xampp\htdocs\PM\lekcja2\lekcja2\bin\Debug\lekcja2.exe.config
+C:\xampp\htdocs\PM\lekcja2\lekcja2\bin\Debug\lekcja2.exe
+C:\xampp\htdocs\PM\lekcja2\lekcja2\bin\Debug\lekcja2.pdb
+C:\xampp\htdocs\PM\lekcja2\lekcja2\obj\Debug\lekcja2.csprojAssemblyReference.cache
+C:\xampp\htdocs\PM\lekcja2\lekcja2\obj\Debug\lekcja2.exe
+C:\xampp\htdocs\PM\lekcja2\lekcja2\obj\Debug\lekcja2.pdb
