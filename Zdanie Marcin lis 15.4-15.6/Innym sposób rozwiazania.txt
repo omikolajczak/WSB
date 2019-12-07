@@ -1,0 +1,2 @@
+Wystarczy do tego dodać metodę która bedzie inicjazilowala wartosci x oraz y i wrzucic ja po dzialaniu dodawania lub odejmowania tak aby mogly dzialac jednoczesnie zamiast dzielic
+to na mozliwosc wyboru
