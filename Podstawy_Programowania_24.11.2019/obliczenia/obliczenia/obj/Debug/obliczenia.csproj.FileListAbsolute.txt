@@ -1,0 +1,5 @@
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\obliczenia\obliczenia\bin\Debug\obliczenia.dll
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\obliczenia\obliczenia\bin\Debug\obliczenia.pdb
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\obliczenia\obliczenia\obj\Debug\obliczenia.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\obliczenia\obliczenia\obj\Debug\obliczenia.dll
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\obliczenia\obliczenia\obj\Debug\obliczenia.pdb

@@ -1,0 +1,6 @@
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\Struktury\Struktury\bin\Debug\Struktury.exe.config
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\Struktury\Struktury\bin\Debug\Struktury.exe
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\Struktury\Struktury\bin\Debug\Struktury.pdb
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\Struktury\Struktury\obj\Debug\Struktury.exe
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\Struktury\Struktury\obj\Debug\Struktury.pdb
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\Struktury\Struktury\obj\Debug\Struktury.csprojAssemblyReference.cache

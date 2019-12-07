@@ -1,0 +1,4 @@
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\biblioteka\bibliotek_PM\bibliotek_PM\bin\Debug\bibliotek_PM.dll
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\biblioteka\bibliotek_PM\bibliotek_PM\bin\Debug\bibliotek_PM.pdb
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\biblioteka\bibliotek_PM\bibliotek_PM\obj\Debug\bibliotek_PM.dll
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\biblioteka\bibliotek_PM\bibliotek_PM\obj\Debug\bibliotek_PM.pdb

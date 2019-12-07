@@ -1,0 +1,6 @@
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\Podstawy_Programowania_24.11.2019\bin\Debug\Podstawy_Programowania_24.11.2019.exe.config
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\Podstawy_Programowania_24.11.2019\bin\Debug\Podstawy_Programowania_24.11.2019.exe
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\Podstawy_Programowania_24.11.2019\bin\Debug\Podstawy_Programowania_24.11.2019.pdb
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\Podstawy_Programowania_24.11.2019\obj\Debug\Podstawy_Programowania_24.11.2019.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\Podstawy_Programowania_24.11.2019\obj\Debug\Podstawy_Programowania_24.11.2019.exe
+C:\Users\student\source\repos\Podstawy_Programowania_24.11.2019\Podstawy_Programowania_24.11.2019\obj\Debug\Podstawy_Programowania_24.11.2019.pdb
